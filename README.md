@@ -156,3 +156,12 @@ O repositório contém a documentação do projeto. Para revisar ou alterar o c�
 
 **Site:** https://3wbrasilprojetoswebsites.com.br/menina-sorriso/  
 **GitHub:** https://github.com/MarcioAntonioGoncalvesdosSantos/produtodigital
+
+
+## 11. Materiais complementares do projeto
+
+- [Plano de lançamento de 30 dias](PLANO-DE-LANCAMENTO.md) — divulgação inicial, indicadores e registro de resultados.
+- [Materiais de divulgação](MATERIAIS-DE-DIVULGACAO.md) — textos para redes sociais, WhatsApp, vídeo curto, parceiros e perguntas frequentes.
+- [Checklist de validação](CHECKLIST-DE-VALIDACAO.md) — testes da página, compra, entrega, segurança e reflexão para o desafio DIO.
+
+Esses documentos completam a parte de planejamento e comunicação do projeto. Eles não substituem testes reais do site WordPress, do pagamento e da entrega do arquivo. Os resultados devem ser registrados somente depois de verificados.
