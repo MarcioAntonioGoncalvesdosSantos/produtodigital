@@ -354,3 +354,137 @@ Use este prompt no ambiente que contém o código do site. Ele pede auditoria e 
 ## Nota de transparência
 
 As funcionalidades descritas como existentes foram informadas pelo autor e devem ser verificadas por testes antes de serem apresentadas como tecnicamente auditadas. As metas de vendas são hipóteses, não garantias.
+
+==========================================================
+
+# Sorriso de Menina — MVP de negócio digital
+
+**Desafio:** DIO — Meu Negócio com IA  
+**Produto:** e-book *Sorriso de Menina*  
+**Autor:** Marcio Antonio Gonçalves dos Santos  
+**Preço:** R$ 19,90  
+**Público inicial:** pais, mães, responsáveis e familiares  
+**Objetivo:** vender o e-book e gerar renda.
+
+## Aplicação publicada
+
+https://3wbrasilprojetoswebsites.com.br/menina-sorriso/
+
+## 1. Dor e oportunidade de negócio
+
+O projeto busca transformar um e-book já publicado em um negócio digital mensurável. Ter uma página no ar é o começo; é necessário entender se o público encontra a oferta, considera o preço adequado e conclui a compra.
+
+A obra acompanha Sorriso, uma menina de 11 anos que vive com os pais em situação de rua em Curitiba e sonha em estudar e construir um futuro. A história aborda educação, dignidade, solidariedade e esperança.
+
+A proposta é apresentar a obra a famílias interessadas em uma leitura com significado para compartilhar com crianças e que possa abrir conversas sobre sonhos, empatia e desigualdade social. A comunicação deve ser respeitosa, sem prometer benefícios garantidos.
+
+## 2. TAM, SAM e SOM — estimativa inicial
+
+Os itens abaixo são hipóteses de planejamento, não uma medição definitiva do mercado específico deste título.
+
+- **TAM — mercado total potencial:** compradores de livros no Brasil. Ainda não há uma contagem confirmada de compradores de e-books com este tema específico.
+- **SAM — mercado atendível:** famílias e responsáveis que compram livros digitais ou procuram leituras para compartilhar com crianças e podem ser alcançados pelos canais escolhidos.
+- **SOM — meta inicial alcançável:** testar a venda direta e buscar de 30 a 100 vendas nos primeiros 90 dias. Essa é uma meta de validação, não uma previsão garantida.
+
+### Cenários de receita bruta
+
+| Vendas | Preço unitário | Receita bruta |
+|---:|---:|---:|
+| 10 | R$ 19,90 | R$ 199,00 |
+| 30 | R$ 19,90 | R$ 597,00 |
+| 50 | R$ 19,90 | R$ 995,00 |
+| 100 | R$ 19,90 | R$ 1.990,00 |
+
+Receita bruta não é lucro: taxas de pagamento, tributos, publicidade, reembolsos e outras despesas precisam ser descontados. Após coletar dados reais de visitas, contatos e compras, revise as estimativas e metas.
+
+## 3. Business Model Canvas
+
+| Bloco | Definição inicial |
+|---|---|
+| Segmentos de clientes | Pais, mães, responsáveis e familiares interessados em histórias com significado para compartilhar com crianças. |
+| Proposta de valor | E-book com narrativa humana sobre sonhos, educação, dignidade e solidariedade. |
+| Canais | Página de vendas existente, WhatsApp, redes sociais, indicações e futuras parcerias de leitura. |
+| Relacionamento | Atendimento direto, informações claras sobre compra e entrega e suporte pós-compra. |
+| Fontes de receita | Venda direta do e-book por R$ 19,90. |
+| Recursos principais | Arquivo do e-book, capa oficial, página de vendas, marca, pagamento e controle de pedidos. |
+| Atividades principais | Divulgação, atendimento, conversão de interessados, entrega e acompanhamento de métricas. |
+| Parceiros principais | Provedor de pagamento, hospedagem/plataforma do site e possíveis parceiros de divulgação. |
+| Estrutura de custos | Hospedagem, domínio, taxas de pagamento, tributos e eventuais despesas de divulgação. |
+
+## 4. Tese do MVP e hipóteses
+
+**Tese principal:** uma página clara, que apresente a história e o preço real de R$ 19,90, pode converter parte dos visitantes em compradores entre pais e familiares interessados nesse tipo de leitura.
+
+| Hipótese | Como testar | Métrica |
+|---|---|---|
+| A história desperta interesse | Divulgar a página em canais relevantes | Visitas e cliques no botão de compra |
+| O preço é aceitável | Exibir o preço real | Compras concluídas |
+| O fluxo é compreensível | Realizar compras de teste e observar dúvidas | Abandono e dúvidas no checkout |
+| A entrega funciona | Testar pagamento e entrega ponta a ponta | Entregas corretas |
+| Os canais trazem compradores | Registrar a origem dos interessados | Vendas por canal |
+| O negócio gera renda | Comparar receita e custos | Receita líquida e custo por venda |
+
+Curtidas e elogios são sinais de interesse, mas não comprovam disposição de pagar. A evidência mais forte é uma compra concluída e entregue corretamente.
+
+## 5. Funcionalidades existentes e checklist de testes
+
+Conforme informado pelo autor, já estão prontos:
+- Página de vendas e apresentação do livro.
+- Preço de R$ 19,90 e nome correto do autor.
+- Botão de compra e pagamento.
+- Entrega do e-book após a compra.
+- Cadastro de interessados e controle de vendas.
+- Painel administrativo e segurança.
+
+Antes de entregar o desafio, teste e registre evidências:
+
+- [ ] Abrir e testar a página em celular e computador.
+- [ ] Realizar uma compra de teste e verificar confirmação, pagamento e entrega.
+- [ ] Confirmar que o arquivo do e-book não fica publicamente acessível sem autorização.
+- [ ] Testar o formulário e a gravação de interessados.
+- [ ] Testar o painel administrativo e as permissões de acesso.
+- [ ] Capturar telas da página e das interações com a IA.
+- [ ] Confirmar a tecnologia e o backend utilizados; não declarar uso de Lovable Cloud sem verificar.
+- [ ] Atualizar este README com os resultados reais dos testes e correções.
+
+## 6. O que fica manual de propósito
+
+A operação pode manter intervenção humana para responder dúvidas, acompanhar pedidos que exigem conferência e aprender com o feedback dos primeiros compradores. Não se deve marcar um pedido como pago sem confirmação confiável.
+
+Antes de investir em anúncios, chatbots ou automações complexas, priorize a medição de visitas, contatos, pedidos, compras e entregas.
+
+## 7. Mega prompt para revisar a aplicação existente
+
+Use este prompt no ambiente que contém o código do site. Ele pede auditoria e melhorias incrementais, não uma reconstrução:
+
+> Revise o MVP existente do e-book **Sorriso de Menina**, de autoria de **Marcio Antonio Gonçalves dos Santos**, vendido por **R$ 19,90**. A aplicação publicada está em https://3wbrasilprojetoswebsites.com.br/menina-sorriso/.
+>
+> **Não reconstrua o site do zero nem remova funcionalidades existentes.** Primeiro, inspecione o projeto, identifique tecnologia, backend, fluxo de compra e entrega, armazenamento de dados e controles de acesso. Não presuma que integrações estejam funcionando sem verificar.
+>
+> Preserve o título *Sorriso de Menina*, o nome completo do autor e o preço de R$ 19,90. Não utilize o nome “Eliza”. O público inicial são pais e famílias e o objetivo é vender o e-book e gerar renda.
+>
+> Audite a página pública, o formulário de interessados, checkout/pagamento, confirmação de pagamento, entrega do arquivo, painel administrativo e permissões. Teste estados de sucesso e erro. Verifique se dados pessoais e o arquivo do e-book estão protegidos e se nenhuma credencial secreta está exposta.
+>
+> Preserve o pagamento e a entrega atuais quando estiverem funcionando. Não crie vendas, pagamentos, depoimentos ou resultados fictícios. Corrija somente problemas comprovados e melhorias necessárias para confiabilidade, acessibilidade, experiência móvel, privacidade e segurança.
+>
+> Prepare métricas para visitas, cliques no botão de compra, leads, pedidos, pagamentos confirmados, entregas e origem dos interessados, respeitando a privacidade. Não adicione banco de dados ou integrações externas sem necessidade comprovada.
+>
+> Se o projeto estiver na Lovable e usar Lovable Cloud, utilize a infraestrutura já configurada. Caso contrário, documente a tecnologia real; não afirme que usa Lovable Cloud sem evidência e não migre o site automaticamente.
+>
+> Ao concluir, apresente: funcionalidades verificadas, problemas encontrados, alterações feitas, testes executados e resultados, configurações manuais pendentes e recomendações para validar as primeiras vendas. Preserve o site publicado e não faça publicação em produção sem autorização explícita.
+
+## 8. Reflexão sobre o processo — completar depois dos testes
+
+- **O que funcionou bem:** [preencher com a experiência real]
+- **O que precisou de correção:** [registrar os problemas observados e as correções]
+- **O que aprendi sobre IA e Vibe Coding:** [registrar como o contexto, os prompts e os testes influenciaram o resultado]
+- **Resultados da validação:** [visitas, leads, compras, entregas e período medido]
+
+## 9. Links
+
+- **Aplicação publicada:** https://3wbrasilprojetoswebsites.com.br/menina-sorriso/
+- **Repositório GitHub:** https://github.com/MarcioAntonioGoncalvesdosSantos/produtodigital
+
+## Nota de transparência
+
+As funcionalidades descritas como existentes foram informadas pelo autor e devem ser verificadas por testes antes de serem apresentadas como tecnicamente auditadas. As metas de vendas são hipóteses, não garantias.
